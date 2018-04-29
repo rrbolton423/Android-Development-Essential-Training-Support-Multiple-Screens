@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Update Fragment</string>
+    <string name="hello_from_fragment_one">Hello from fragment one</string>
+    <string name="hello_from_fragment_two">Hello from fragment two</string>
+    <string name="display_fragment_one">Fragment One</string>
+    <string name="update_fragment">Update fragment</string>
+</resources>
